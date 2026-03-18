@@ -1,5 +1,7 @@
 # myapp
 
+<img width="459" height="777" alt="image" src="https://github.com/user-attachments/assets/f8e3b0d6-e136-4d05-b454-92999ab28c06" />
+
 # PROMPT
 Actúa como un desarrollador en Flutter. 
 Crea un diseño base profesional y moderno para una aplicacion llamada 'StarMedica' siguiendo estrictamente estas especificaciones: 
@@ -28,6 +30,9 @@ CONSULTA FAMILIAR
 INSTALACIONES
 
 ---------------------------
+
+<img width="1225" height="783" alt="image" src="https://github.com/user-attachments/assets/6d3fc2f7-06c6-4038-b687-6066d7fa673a" />
+
 
 A new Flutter project.
 
